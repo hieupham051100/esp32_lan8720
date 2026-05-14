@@ -205,7 +205,7 @@ idf.py -p COMx monitor
 ---
 
 ## 7. Log khởi động bình thường
-![](docs/images/ketqua.png)
+![](docs/images/ket_qua.png)
 ```
 I (2236) ethernet_init: Ethernet(LAN87XX) Started
 I (2236) ethernet_init: Ethernet(LAN87XX) Link Up
