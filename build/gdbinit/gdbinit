@@ -1,0 +1,2 @@
+source D:/ESP32_IDF/MY_ESP/static_ip_ether_lan8720/build/gdbinit/symbols
+source D:/ESP32_IDF/MY_ESP/static_ip_ether_lan8720/build/gdbinit/connect

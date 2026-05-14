@@ -1,0 +1,25 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [
+                "/k",
+                "D:/ESP32_IDF/ESP_IDF_ENV/Espressif/idf_cmd_init.bat esp-idf-4013b89667253e1532b1ab78aaf1b5c5"
+            ],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        }
+    },
+    "idf.currentSetup": "D:/ESP32_IDF/ESP_IDF_ENV/Espressif/frameworks/esp-idf-v5.4.3/",
+
+}
